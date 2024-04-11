@@ -233,7 +233,7 @@ Console.WriteLine(await response.Content.ReadAsStringAsync());
 
 <br>
 
-[block:parameters]
+```
 {
   "data": {
     "h-0": "Parameter",
@@ -258,4 +258,4 @@ Console.WriteLine(await response.Content.ReadAsStringAsync());
     "left"
   ]
 }
-[/block]
+```
